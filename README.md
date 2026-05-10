@@ -1,3 +1,3 @@
 Sachin Kumar
 <br>
-auther: Sachin CHanges
+Auther: Sachin Changes
